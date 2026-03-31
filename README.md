@@ -30,6 +30,9 @@
 ### 👨‍💻 Programming
 - Python
 - Bash
+- HTML
+- CSS
+- Javascript
 
 ### 🌐 Networking
 - TCP/IP
